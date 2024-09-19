@@ -18,9 +18,9 @@ This project is a web scraping tool designed to extract product information from
   - [Submit All Data](#submit-all-data)
 - [Important Notes](#important-notes)
   - [Scraper Notes](#scraper-notes)
-
+ 
 ## Environment Setup
-
+Try git 
 Run the following command to install the required modules:
 
 ```bash
